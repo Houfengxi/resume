@@ -1,0 +1,13 @@
+﻿[
+	{	"name":"侯风西",
+		"age":"23",
+		"sex":"女",
+		"edu":"石家庄学院",
+		"img":"./css/img/h5.jpg",
+		"exper":"1年",
+		"seek":"前端应用开发工程师",
+		"motto":"工欲善其事，必先利其器。",
+		"skill":"掌握并且能够熟练应用HTML4、HTML5、CSS3、ES5、ES6以及flex基本布局方法，在利用JQuery、zepto、AngularJS、REACT等框架的基础上，快速完成工作任务。"
+	}
+	
+]
